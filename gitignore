@@ -1,0 +1,11 @@
+# ALLBUS data may not be redistributed
+data/*
+!data/.gitkeep
+*.dta
+*.sav
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
